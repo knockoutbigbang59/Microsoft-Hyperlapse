@@ -206,4 +206,4 @@ Microsoft Hyperlapse is offered as a **full free version** with all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-02 00:32:42 UTC
+**Last updated:** 2026-11-02 07:25:34 UTC
